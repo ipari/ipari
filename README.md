@@ -1,4 +1,4 @@
-게임 디자이너입니다.
+현재 게임 디자이너로 일하고 있습니다.
 
 - 👨‍💻 기획, 프로토타이핑, 툴 개발에 [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/) 를 사용합니다.
 - 📊 데이터 분석 및 시각화에 [pandas](https://pandas.pydata.org/), [Bokeh](https://docs.bokeh.org/), [seaborn](https://seaborn.pydata.org/) 을 사용합니다.
