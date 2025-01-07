@@ -1,4 +1,4 @@
-A versatile generalist bridging diverse fields.
+**A versatile generalist bridging diverse fields.**
 - Worked in gaming, edtech, and silver tech across corporates and startups.
 - Hands-on experience in planning, design, development, and data.
 - Degrees in Industrial Design, Computer Science, and Statistics/Data Science.
